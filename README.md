@@ -28,7 +28,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
            
 
 ### 区别 ###
-   [普通版（弃用）](https://github.com/wangziyingwen/AutoApi)：密钥暴露，不在乎的话可以使用
+   [普通版（弃用）](https://github.com/wangziyingwen/AutoApi)：密钥暴露，不在乎的话可以使用。
    
    [加密版（推荐）](https://github.com/wangziyingwen/AutoApiSecret)：应用id机密加密隐藏，提高安全性
 
